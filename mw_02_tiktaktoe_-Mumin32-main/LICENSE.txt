@@ -1,0 +1,20 @@
+Urheberrecht (c) [Moritz Wenger] [2024]
+
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der Materialien (die "Materialien") erhält,
+die Erlaubnis erteilt, uneingeschränkt zu den folgenden Bedingungen zu nutzen:
+
+
+1. Die Materialien dürfen ohne ausdrückliche schriftliche Genehmigung des Urheberrechtsinhabers nicht kopiert,
+   verteilt oder anderweitig weitergegeben werden.
+
+2. Jede Verletzung dieser Bestimmungen kann rechtliche Konsequenzen nach sich ziehen, einschließlich,
+   aber nicht beschränkt auf, zivil- und strafrechtliche Maßnahmen.
+
+3. Die Materialien sind ausschließlich zu Übungszwecken in der Digimind Phase der Codersbay Kapfenberg einzusetzen.
+
+4. Personen, die diese Materialen erhalten sind dazu befugt, Änderungen innerhalb dieses Ordners vorzunehmen
+   Ausgenommen von dieser Erlaubnis sind folgende Dateien:
+   - LICENSE.txt
+   - README.md
+
+Weitere Informationen und Anfragen zu Rechten und Lizenzen richten Sie bitte an [moritz_wenger@qualifizierung.at]
